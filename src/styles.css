@@ -1,1 +1,9 @@
 /* You can add global styles to this file, and also import other style files */
+
+.middle {
+    text-align: center;
+}
+
+#toast-container > div {
+    opacity: 1;
+}
